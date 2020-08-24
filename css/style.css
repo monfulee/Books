@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+*{
+	font-family: 'Lato', sans-serif;
+}
+/*navbar*/
+header .container-fluid{
+/*	border:1px solid red;
+*/	width: 80%;
+}
+header .navbar-light{
+	padding: 2rem;
+	background:rgba(0,0,0,0)!important;
+}
+header .container .col-md-5 img{
+	max-width:75%;
+}
